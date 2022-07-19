@@ -7,7 +7,7 @@ Programmer
 I'm 16 y.o. programmer from Poland
 
 * 🌍  I'm based in Poland
-* 🖥️  See my portfolio at [Portfolio](http://google.com)
+* 🖥️  See my portfolio at [Portfolio](https://br0kk3r.github.io/Portfolio/)
 
 <a href="https://www.twitter.com/Brokker_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Brokker_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
