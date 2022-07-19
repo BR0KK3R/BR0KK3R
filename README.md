@@ -1,7 +1,7 @@
 Hi 👋 My name is Kacper
 =======================
 
-Programmer
+Programmer 💻
 ----------
 
 I'm 16 y.o. programmer from Poland
