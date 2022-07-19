@@ -4,7 +4,7 @@ Hi 👋 My name is Kacper
 Programmer
 ----------
 
-I'm 16 yo. programmer from Poland
+I'm 16 y.o. programmer from Poland
 
 * 🌍  I'm based in Poland
 * 🖥️  See my portfolio at [Portfolio](http://google.com)
