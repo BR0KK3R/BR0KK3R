@@ -43,9 +43,9 @@ I'm 16 y.o. programmer from Poland
  <!-- GitHub -->
 <a href="https://www.github.com/BR0KK3R" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" /></a>
 <!-- Itch.io -->
-<a href="https://www.twitter.com/Brokker_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BR0KK3R/Portfolio/gh-pages/icons/itch-io.svg" width="36" height="36" alt="Itch.io" /></a>
+<a href="https://brokker.itch.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BR0KK3R/Portfolio/gh-pages/icons/itch-io.svg" width="36" height="36" alt="Itch.io" /></a>
 <!-- Twitter -->
-<a href="https://brokker.itch.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="36" height="36" alt="Twitter" /></a>
+<a href="https://twitter.com/Brokker_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="36" height="36" alt="Twitter" /></a>
 <!-- Youtube -->
 <a href="https://www.youtube.com/channel/UCENNNQhR6O3jlSvx4RfneVw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="36" height="36" alt="Youtube" /></a>
 <!-- Twitch -->
