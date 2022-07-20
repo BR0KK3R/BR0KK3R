@@ -37,7 +37,20 @@ I'm 16 y.o. programmer from Poland
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Brokker#4564" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/BR0KK3R" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Brokker_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCENNNQhR6O3jlSvx4RfneVw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/br0kk3r" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+<!-- Discord -->
+<a href="https://discord.com/users/Brokker#4564" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" alt="Discord" /></a>
+ <!-- GitHub -->
+<a href="https://www.github.com/BR0KK3R" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" /></a>
+<!-- Itch.io -->
+<a href="https://www.twitter.com/Brokker_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BR0KK3R/Portfolio/gh-pages/icons/itch-io.svg" width="36" height="36" alt="Itch.io" /></a>
+<!-- Twitter -->
+<a href="https://brokker.itch.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="36" height="36" alt="Twitter" /></a>
+<!-- Youtube -->
+<a href="https://www.youtube.com/channel/UCENNNQhR6O3jlSvx4RfneVw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="36" height="36" alt="Youtube" /></a>
+<!-- Twitch -->
+<a href="https://www.twitch.tv/br0kk3r" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="36" height="36" alt="Youtube" /></a>
+</p>
 
 ### Badges
 
