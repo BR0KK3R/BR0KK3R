@@ -40,8 +40,6 @@ I'm 16 y.o. programmer from Poland
 <p align="left"> 
 <!-- Discord -->
 <a href="https://discord.com/users/Brokker#4564" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" alt="Discord" /></a>
- <!-- GitHub -->
-<a href="https://www.github.com/BR0KK3R" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" /></a>
 <!-- Itch.io -->
 <a href="https://brokker.itch.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BR0KK3R/Portfolio/gh-pages/icons/itch-io.svg" width="36" height="36" alt="Itch.io" /></a>
 <!-- Twitter -->
