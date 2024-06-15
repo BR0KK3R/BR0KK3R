@@ -4,7 +4,7 @@ Hi 👋 I'm Kacper
 Programmer 💻
 ----------
 
-I'm 17 y.o. programmer from Poland
+I'm 18 y.o. programmer from Poland
 
 * 🌍  I'm based in Poland
 * 🖥️  See my portfolio at ...
