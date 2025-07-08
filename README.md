@@ -1,4 +1,4 @@
-Hi 👋 I'm Kacper
+Hi, I'm Kacper 👋
 =======================
 
 Programmer 💻
