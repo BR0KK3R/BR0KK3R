@@ -4,7 +4,7 @@ Hi, I'm Kacper 👋
 FULL-STACK DEVELOPER 💻
 ----------
 
-I'm 19 y.o. programmer from Poland
+I'm 20 y.o. programmer from Poland
 
 * 🌍  I'm based in Poland
 * 🖥️  See my portfolio at ...
